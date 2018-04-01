@@ -6,16 +6,14 @@
 
 
 $('.kenbarn').vegas({
-  overlay: true,
+  overlay: false,
   transition: 'fade', 
   transitionDuration: 4000,
   delay: 10000,
   animation: 'random',
   animationDuration: 20000,
   slides: [
-    { src: 'images/slider/kenburn-1.jpg' },
-    { src: 'images/slider/kenburn-2.jpg' },
-    { src: 'images/slider/kenburn-3.jpg' },
+    { src: 'images/slider/land.jpg' }
     /*{ src: 'images/slider/kenburn-4.jpg' }*/
   ]
 });
