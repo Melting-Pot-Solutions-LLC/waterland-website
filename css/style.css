@@ -791,10 +791,9 @@ ul,li{
 }
 
 .main-menu .navigation > li{
-	position:relative;
 	float:left;
 	padding:0px;
-	margin-right:25px;
+	margin-right:100px;
 }
 
 .main-menu .navigation > li > a{
