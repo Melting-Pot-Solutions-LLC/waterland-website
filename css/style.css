@@ -793,6 +793,7 @@ ul,li{
 .main-menu .navigation > li{
 	float:left;
 	padding:0px;
+	margin-top: 3%;
 	margin-right:100px;
 }
 
