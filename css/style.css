@@ -734,6 +734,7 @@ ul,li{
 
 .main-header .header-upper .logo img{
 	padding-top: 20px;
+	width: 300px;
 	max-width:100%;
 	display:inline-block;	
 }
