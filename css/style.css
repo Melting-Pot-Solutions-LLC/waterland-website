@@ -2744,7 +2744,7 @@ text-align: left;}
 
 .main-footer .footer-upper{
 	position:relative;
-	padding:70px 0px 30px;
+	padding:20px 0px 30px;
 	z-index:1;
 }
 
@@ -2935,6 +2935,7 @@ text-align: left;}
 	font-size:15px;
 	text-align:center;
 	color:#808080;
+    background-color: #1F2B32;
 }
 
 .footer-bottom .copyright{
