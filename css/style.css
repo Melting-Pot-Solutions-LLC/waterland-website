@@ -1420,6 +1420,13 @@ ul,li{
 ====================================================================
 
 ***/
+ @media only screen and (max-width: 600px) {
+     .main-header .top-bar .info-box li{
+         align-content: center;
+     }
+
+ }
+
 
 
 .featured-item-2 {
@@ -1431,10 +1438,12 @@ ul,li{
     height: 300px;
     width: 100%;
     text-align: center;
+
 }
 
 .featured-item-2 .icon {
     padding:0 0 10px 0;
+    margin-top: -25px;
 }
 .featured-item-2 .icon i{
     font-size: 50px;
@@ -1472,7 +1481,8 @@ ul,li{
   padding-left: 20px;
   font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 12px;
+    margin-bottom:70px;
 }
 
 .main-features{
