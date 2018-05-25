@@ -613,7 +613,7 @@ ul,li{
 }
 
 .main-header .top-bar .top-container{
-	position:relative;
+
 	max-width:100%;
 	margin:0 auto;	
 }
@@ -2854,6 +2854,7 @@ text-align: left;}
 
 .social-links-two{
 	position:relative;
+    padding-left: 45%;
 }
 
 .social-links-two a{
