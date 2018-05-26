@@ -1,3 +1,5 @@
+
+
 (function($) {
 	
 	"use strict";
@@ -9,7 +11,7 @@
 			$('.preloader').delay(500).fadeOut(500);
 		}
 	}
-	
+
 	
 	//Update Header Style + Scroll to Top
 	function headerStyle() {
