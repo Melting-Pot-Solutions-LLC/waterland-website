@@ -3367,8 +3367,13 @@ li.col-xs-12:before{
 
 .team-section .team-member{
 	position:relative;
-	margin-bottom:60px;	
+	margin-bottom:60px;
 }
+
+ .team-section .team-member img{
+	 width: 350px;
+	 height: 800px;
+ }
 
 .team-section.extended .team-member{
 	margin-bottom:60px;	
@@ -3383,6 +3388,19 @@ li.col-xs-12:before{
 
 .team-section .team-member .image{
 	position:relative;
+}
+
+@media only screen and (max-width: 600px) {
+	.serv{
+		width: 120%;
+		margin-left: -45px;
+	}
+
+	.team-section .team-member img{
+		width: 300px;
+		height: 450px;
+	}
+
 }
 
 .team-section .team-member .image img{
