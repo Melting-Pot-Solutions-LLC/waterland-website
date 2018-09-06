@@ -1483,6 +1483,12 @@ ul,li{
     font-size: 12px;
     margin-bottom:70px;
 }
+.jv-st-srv .service-block {
+    border: 1px solid #ccc;
+    max-height: 215px;
+    box-sizing: border-box;
+    border-radius: 0;
+}
 
 .main-features{
 	position:relative;
