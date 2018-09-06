@@ -1435,7 +1435,6 @@ ul,li{
     box-shadow: 0 1px 30px rgba(7, 76, 213, 0.07); 
    border-radius: 10px;
     display: block;
-    height: 300px;
     width: 100%;
     text-align: center;
 
@@ -1470,7 +1469,7 @@ ul,li{
 }
 
 .jv-st-srv{
-  padding-top: 20px;
+  padding-top: 100px;
   padding-left: 60px;
   padding-right: 30px;
   padding-bottom: 10px;
@@ -2385,6 +2384,10 @@ text-align: left;}
 .center-col{ float:none !important; margin-left:auto !important; margin-right:auto !important}
 .testimonial .container {
   width: 100%;
+}
+.testimonials .owl-carousel .owl-wrapper {
+    display: flex !important;
+    align-items: center;
 }
 
 
