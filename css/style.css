@@ -3428,7 +3428,6 @@ li.col-xs-12:before{
 
 .team-section .team-member .member-info{
 	position:relative;
-	padding:25px 0px 0px;
 }
 
 .member-details .team-member .member-info{
@@ -3467,6 +3466,25 @@ li.col-xs-12:before{
 }
 
 .team-section .team-member .social-links a{
+	position:relative;
+	display:inline-block;
+	width:34px;
+	height:34px;
+	font-size:14px;
+	margin:0px 3px 5px;
+	line-height:32px;
+	border-radius:50%;
+	text-align:center;
+	border:1px solid #e1e1e1;
+	color:#cccccc;
+	transition:all 300ms ease;
+	-webkit-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+}
+
+.social-links-a{
 	position:relative;
 	display:inline-block;
 	width:34px;
