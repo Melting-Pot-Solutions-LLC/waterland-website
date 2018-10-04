@@ -4689,3 +4689,6 @@ li.col-xs-12:before{
 .img-fluid {
     max-width: 100%;
 }
+.grey {
+    color: #25292f;
+}
