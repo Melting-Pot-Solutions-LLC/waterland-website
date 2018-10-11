@@ -1,6 +1,6 @@
-(function(){
-    emailjs.init("user_fHCAuIg6awgTzhY28Nase");
-})();
+//(function(){
+//    emailjs.init("user_fHCAuIg6awgTzhY28Nase");
+//})();
 var myform = $("form#my_form");
 myform.submit(function(event){
     event.preventDefault();

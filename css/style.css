@@ -1275,10 +1275,6 @@ ul,li{
 }
 
 
-.bg-image{
-  background: url(../images/background/bg-04.jpg) no-repeat;
-}
-
 .text-black{
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
@@ -4675,6 +4671,9 @@ li.col-xs-12:before{
 
 .pad-top-60{
 	padding-top: 60px;
+}
+.pad-top-30{
+	padding-top: 30px;
 }
 .pad-bot-80{
 	padding-bottom: 80px;
