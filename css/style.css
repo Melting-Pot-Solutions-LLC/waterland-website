@@ -4678,6 +4678,9 @@ li.col-xs-12:before{
 .pad-bot-80{
 	padding-bottom: 80px;
 }
+.pad-bot-60{
+	padding-bottom: 60px;
+}
 .pad-bot-50{
 	padding-bottom: 50px;
 }
@@ -4687,6 +4690,10 @@ li.col-xs-12:before{
 
 .img-fluid {
     max-width: 100%;
+}
+.news-video {
+    width: 100%;
+    height: 350px;
 }
 .grey {
     color: #25292f;
