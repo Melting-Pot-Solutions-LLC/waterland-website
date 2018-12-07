@@ -337,8 +337,15 @@
         event.preventDefault();
 
       // Change to your service ID, or keep using the default service
-      var service_id = "default_service";
-      var template_id = "waterland";
+       var template_params = {
+           "from_name": "from_name_value",
+           "from_email": "from_email_value",
+           "message_html": "message_html_value"
+        }
+
+        var service_id = "mpsllcinfo_gmail_com";
+        var template_id = "waterland";
+        emailjs.send(service_id,template_id,template_params);
 
       myform.find("button").text("Sending...");
       emailjs.sendForm(service_id,template_id,myform[0])
