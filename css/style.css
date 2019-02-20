@@ -768,7 +768,7 @@
      background: #ffffff;
      box-shadow: 0 1px 30px rgba(7, 76, 213, 0.07);
      transition: all 300ms ease-in;
-     -moz-transition: all 300ms ease-n;
+     /*-moz-transition: all 300ms ease-in;*/
      -webkit-transition: all 300ms ease-in;
      -ms-transition: all 300ms ease-in;
      -o-transition: all 300ms ease-in;
@@ -1125,7 +1125,7 @@
      overflow: hidden;
  }
  .image-color-overlay {
-     background: (211, 196, 225, .2);
+     /*background: (211, 196, 225, .2);*/
  }
  .text-black {
      font-family: 'Montserrat', sans-serif;
@@ -1146,7 +1146,7 @@
      background-size: cover;
  }
  .image-color-overlay {
-     background: (211, 196, 225, .2);
+     /*background: (211, 196, 225, .2);*/
  }
  .double-border {
      padding: 50px 50px;
